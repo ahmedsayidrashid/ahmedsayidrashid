@@ -29,12 +29,12 @@
 
 <p align="left">
   I'm Ahmed, an Engineering student and software enthusiast based in Canada 🍁<br><br>
-  - 🔭 I’m currently working on system configuration tooling and a web frontend at Collins Aerospace.<br>
-  - 💡 I'm learning embedded Linux, radios, and communication systems.<br>
+  - 🔭 I’m currently working on a system configuration tool and a user friendly web frontend application at Collins Aerospace.<br>
+  - 💡 I'm learning embedded Linux, radios, and developing system protocols.<br>
   - 📚 I’m diving deeper into Python, C, networking protocols, and Linux system programming.<br>
   - 🔧 I enjoy interfacing with hardware, electronics, and designing minimal PCBs.<br>
   - 🕳️ Fascinated by physics—especially black holes, time dilation, and space-time mysteries.<br>
-  - ⚡ In my free time, I tinker with hardware (like Raspberry Pi), collaborate with developers on open source projects, and create software solutions to people's problems.<br>
+  - ⚡ In my free time, I tinker with hardware (like Raspberry Pi), and collaborate with developers on open source projects.<br>
 </p>
 
 ###
@@ -64,7 +64,7 @@
 <h3 align="left">🚀 Projects I'm working on:</h3>
  
 - 🌐 Open-source collaboration platform for students
-- 🖌️ Building my **personal portfolio website** to showcase my projects and experience, where I plan to share insights and tutorials of my projects through blogs.   
+- 🖌️ Building my **personal portfolio website** to showcase my projects and experience, where I plan to share insights, tutorials, and others of my projects through blogs.   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="20" alt="raspberrypi logo" /> Experimenting with **Pi-hole** and diving into advanced **networking projects** using the Raspberry Pi 5.
 - 🖥️ Developing a **custom bootloader** to deepen my understanding of low-level system programming.
 - 📟 Embedded quartz clock PCB with LCD time display  
