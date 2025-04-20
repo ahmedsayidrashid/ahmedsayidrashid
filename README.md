@@ -29,8 +29,8 @@
 
 <p align="left">
   I'm Ahmed, an Engineering student and software enthusiast based in Canada 🍁<br><br>
-  - 🔭 I’m currently working on a system configuration tool and a user friendly web frontend application at Collins Aerospace.<br>
-  - 💡 I'm learning embedded Linux, radios, and developing system protocols.<br>
+  - 🔭 I’m currently working on a system configuration tool and a web application at Collins Aerospace.<br>
+  - 💡 I'm learning embedded Linux, user friendly web applications, and developing system protocols.<br>
   - 📚 I’m diving deeper into Python, C, networking protocols, and Linux system programming.<br>
   - 🔧 I enjoy interfacing with hardware, electronics, and designing minimal PCBs.<br>
   - 🕳️ Fascinated by physics—especially black holes, time dilation, and space-time mysteries.<br>
