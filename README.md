@@ -61,8 +61,7 @@
 
 <h3 align="left">🚀 Projects I'm working on:</h3>
 
-- A tool to computate sensor data sent over TCP with a 7800 XT AMD GPU 
-- 🌐 Open-source collaboration platform for students
+- 🌐 Open-source collaboration platform for students, a centrialzed website where students can both colloborate and showcase their projects to other students.
 - 🖌️ Building my **personal portfolio website** to showcase my projects and experience, where I plan to share insights, tutorials, and others of my projects through blogs.   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="20" alt="raspberrypi logo" /> Experimenting with **Pi-hole** and diving into advanced **networking projects** using the Raspberry Pi 5.
 - 🖥️ Developing a **custom bootloader** to deepen my understanding of low-level system programming.
