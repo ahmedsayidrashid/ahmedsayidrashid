@@ -29,7 +29,7 @@
 
 <p align="left">
   I'm Ahmed, an Engineering student and software enthusiast based in Canada 🍁<br><br>
-  - 🔭 I’m currently working on a system configuration tool and a web application at Collins Aerospace.<br>
+  - 🔭 I’m currently working with the Helix Virtualization Platform (HVP) team at Wind River.<br>
   - 💡 I'm learning embedded Linux, user friendly web applications, and developing system protocols.<br>
   - 📚 I’m diving deeper into Python, C, networking protocols, and Linux system programming.<br>
   - 🔧 I enjoy interfacing with hardware, electronics, and designing minimal PCBs.<br>
