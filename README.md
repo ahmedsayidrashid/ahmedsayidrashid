@@ -32,7 +32,7 @@
   - 🔭 I’m currently working with the Helix Virtualization Platform (HVP) team at Wind River.<br>
   - 📚 I’m diving deeper into multithreading programming in Java, database management, and systems programming.<br>
   - 🔧 I enjoy interfacing with hardware, electronics, and designing minimal PCBs.<br>
-  - 🕳️ Fascinated by physics—especially black holes, time dilation, and space-time mysteries.<br>
+  - 🕳️ Fascinated by physics, especially black holes, time dilation, and space-time mysteries.<br>
   - ⚡ In my free time, I tinker with hardware (like Raspberry Pi), and collaborate with developers on open source projects.<br>
 </p>
 
@@ -61,10 +61,9 @@
 <h3 align="left">🚀 Projects I'm working on:</h3>
 
 - 🌐 Open-source collaboration platform for students, a centrialzed website where students can both colloborate and showcase their projects to other students.
-- 🖌️ Building my **personal portfolio website** to showcase my projects and experience, where I plan to share insights, tutorials, and others of my projects through blogs.   
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="20" alt="raspberrypi logo" /> Experimenting with **Pi-hole** and diving into advanced **networking projects** using the Raspberry Pi 5.
+- 🖌️ Constantly updating my **personal portfolio website** to showcase my projects, experiences, and blogs.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="20" alt="raspberrypi logo" /> Experimenting and diving into advanced projects using the Raspberry Pi 5.
 - 🖥️ Developing a **custom bootloader** to deepen my understanding of low-level system programming.
-- 📟 Embedded quartz clock PCB with LCD time display  
 
 ###
 
