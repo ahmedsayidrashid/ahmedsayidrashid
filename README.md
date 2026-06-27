@@ -30,7 +30,6 @@
 <p align="left">
   I'm Ahmed, an Engineering student and software enthusiast based in Canada 🍁<br><br>
   - 🔭 I’m currently working with the Helix Virtualization Platform (HVP) team at Wind River.<br>
-  - 📚 I’m learning what it takes to be a professional engineer in Ontario. <br>
   - 🔧 I enjoy interfacing with hardware, electronics, and designing minimal PCBs.<br>
 </p>
 
@@ -61,7 +60,7 @@
 
 <h3 align="left">🚀 Projects I'm working on:</h3>
 
-- 🌐 Building ShipLog and Mizan. Check out the repos for more info.
+- 🌐 Building ShipLog and Mizan. Check out my [blog](https://www.ahmedrashid.ca/blog) for more info.
 - 🖌️ Constantly updating my **personal portfolio website** to showcase my projects, experiences, and blogs.
 - 🖥️ Remaking the built in `history` shell command to deepen my understanding of low-level system programming.
 
