@@ -29,7 +29,7 @@
 
 <p align="left">
   I'm Ahmed, an embedded software engineer based in Canada 🍁<br><br>
-  - 🔭 I’m currently working with the Helix Virtualization Platform (HVP) team at Wind River.<br>
+  - 🔭 I’m currently working with the IP Routing team at Nokia.<br>
   - 🔧 I enjoy interfacing with hardware, and working in resource constraint environments.<br>
 </p>
 
