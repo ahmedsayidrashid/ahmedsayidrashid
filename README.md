@@ -67,5 +67,4 @@
 ###
 
 > _"Curiosity is the compass, code is the journey."_  
-> Let’s build something amazing!
 
