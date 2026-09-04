@@ -61,8 +61,8 @@
 <h3 align="left">🚀 Projects I'm working on:</h3>
 
 - 🌐 Building ShipLog and Mizan. Check out my [blog](https://www.ahmedrashid.ca/blog) for more info.
-- 🖌️ Constantly updating my **personal portfolio website** to showcase my projects, experiences, and blogs.
-- 🖥️ Remaking the built in `history` shell command to deepen my understanding of low-level programming.
+- 🖌️ Constantly updating my [website](https://www.ahmedrashid.ca/) to showcase my projects, experiences, and blogs.
+- 🖥️ Remaking the built in [history](https://github.com/ahmedsayidrashid/Command-Records) shell command to deepen my understanding of low-level programming.
 
 ###
 
