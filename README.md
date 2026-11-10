@@ -29,7 +29,7 @@
 
 <p align="left">
   I'm Ahmed, an embedded software engineer based in Canada 🍁<br><br>
-  - 🔭 I’m currently working with the IP Routing team at Nokia.<br>
+  - 🔭 I’m currently working with the Service Routing Operating System team at Nokia.<br>
   - 🔧 I enjoy interfacing with hardware, and working in resource constraint environments.<br>
 </p>
 
@@ -61,7 +61,6 @@
 <h3 align="left">🚀 Projects I'm working on:</h3>
 
 - 🌐 Building ShipLog and Mizan. Check out my [blog](https://www.ahmedrashid.ca/blog) for more info.
-- 🖌️ Constantly updating my [website](https://www.ahmedrashid.ca/) to showcase my projects, experiences, and blogs.
 - 🖥️ Remaking the built in [history](https://github.com/ahmedsayidrashid/Command-Records) shell command to deepen my understanding of low-level programming.
 
 ###
