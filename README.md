@@ -29,7 +29,7 @@
 
 <p align="left">
   I'm Ahmed, an embedded software engineer based in Canada 🍁<br><br>
-  - 🔭 I’m currently working with the Service Routing Operating System team at Nokia.<br>
+  - 🔭 I’m currently working with the service router operating system (SR OS) team at Nokia.<br>
   - 🔧 I enjoy interfacing with hardware, and working in resource constraint environments.<br>
 </p>
 
